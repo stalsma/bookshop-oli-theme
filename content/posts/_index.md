@@ -1,7 +1,7 @@
 ---
-title: "Our blog"
+title: Emojis
 hero:
-  title: "Blog Articles"
-  background_image: "/images/bg/home-2.jpg"
+  title: Blog Articles
+  background_image: /images/bg/home-2.jpg
 url: /blog/
 ---
